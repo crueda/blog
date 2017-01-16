@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Scotch Jekyll Bootstrap'
-description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
+title: 'Blog de Carlos'
+description: 'Unas veces se gana, otras se aprende'
 url: 'http://scotch-io.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+footer_text: 'Carlos Rueda Morales'
 
 # Admin Settings
-admin_name: 'Nicholas Cerminara'
-admin_email: 'nick@scotch.io'
+admin_name: 'Carlos Rueda'
+admin_email: 'crueda@gmail.com'
 

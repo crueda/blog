@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: About
+title: Sobre mi
 permalink: /about/
 ---
 
